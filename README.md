@@ -8,7 +8,10 @@ There may be errors in the transcription, so please feel free to open a pull req
 
 - [Cipher](examples/cipher.md)
 - [Coding](examples/coding.md)
+- [Math](examples/math.md)
 - [Crossword](examples/crossword.md)
 - [English](examples/english.md)
+- [Science](examples/science.md)
+- [Safety](examples/safety.md)
 - [Health Science](examples/health-science.md)
-- [Math](examples/math.md)
+
