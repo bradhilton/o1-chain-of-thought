@@ -1,3 +1,11 @@
+## User
+
+[User instructions are unknown]
+
+## Assistant
+
+### Chain of Thought
+
 The error you're encountering indicates that your backend expects the start_time and end_time fields in the HH:MM[:ss[.uuuuuu]] format (i.e., as time values), but it's receiving full ISO datetime strings from the frontend. This mismatch is causing the validation error.
  
 Issue Breakdown:
