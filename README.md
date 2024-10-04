@@ -11,8 +11,8 @@ There may be errors in the transcription, so please feel free to open a pull req
 - [Math](examples/math.md)
 - [Crossword](examples/crossword.md)
 - [English](examples/english.md)
-- [Reddit](examples/reddit.md) (This one is sourced from [this reddit post](https://www.reddit.com/r/ChatGPT/comments/1fussvn/o1_preview_accidentally_gave_me_its_entire/) and may not be authentic)
 - [Science](examples/science.md)
 - [Safety](examples/safety.md)
 - [Health Science](examples/health-science.md)
+- [Reddit](examples/reddit.md) (This one is sourced from [this reddit post](https://www.reddit.com/r/ChatGPT/comments/1fussvn/o1_preview_accidentally_gave_me_its_entire/) and may not be authentic)
 
